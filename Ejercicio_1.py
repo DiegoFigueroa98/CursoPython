@@ -10,7 +10,7 @@ def pedirNumeroEntero():
 
 def ejercicio():
     num1 = pedirNumeroEntero()
-    num2 = pedirNumeroEntero()
+    num2 = pedirNumeroEntero() 
 
     while num2 <= num1:
         print("\nError, el segundo número NO es mayor que el primero")
