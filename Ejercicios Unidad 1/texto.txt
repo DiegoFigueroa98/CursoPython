@@ -1,0 +1,31 @@
+1955 1 General Motors
+1955 2 Exxon Mobil
+1955 3 U.S. Steel
+1955 4 General Electric
+1955 5 Esmark
+1955 6 Chrysler
+1955 7 Armour
+1955 8 Gulf Oil
+1955 9 Mobil
+1955 10 DuPont
+1955 11 Amoco
+1955 12 Bethlehem Steel
+1955 13 CBS
+1955 14 Texaco
+1955 15 AT&T Technologies
+1955 16 Shell Oil
+1955 17 Kraft
+1955 18 ChevronTexaco
+1955 19 Goodyear Tire & Rubber
+1955 20 Boeing
+1955 21 Sinclair Oil
+1955 22 Navistar International
+1955 23 RCA
+1955 24 Union Carbide
+1955 25 Firestone Tire & Rubber
+1955 26 Douglas Aircraft
+1955 27 Procter & Gamble
+1955 28 Republic Steel
+1955 29 Citgo Petroleum
+1955 30 ConocoPhillips
+1955 31 General Foods
